@@ -1,3 +1,11 @@
 ## Privetstvuyu!
 *** Whatever i want,whenever i want *** 
 Is there anybody who dont accept it ?
+
+
+1. We added GitHub account
+2. Add local repozitory
+3. Connect your local and remote repozitory.GitHub will prompt you how to do that when creating it.
+4. Send (push) your local repozitory to remote (GitHub).
+5. Make changes "from other PC"
+6. Pull the actual state from remote repository
